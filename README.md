@@ -3,11 +3,12 @@
 ## rhnux -  Researcher & open source evangelist 🐷 🪤
 
 nuevo post
-[🛡️ SAP Vulnerabilities | Análisis de CVE-IDs](https://dso-days-siteblog.vercel.app/blog/sap-cve-ids/)
+- [🛡️ SAP Vulnerabilities | Análisis de CVE-IDs](https://dso-days-siteblog.vercel.app/blog/sap-cve-ids/)
+- [🛡️ SAP Security Notes - 2024](https://dso-days-siteblog.vercel.app/blog/2024-sap-compass-vulns-summary/)
+- [🛡️ Priorizando Vulnerabilidades de Alto Riesgo](https://dso-days-siteblog.vercel.app/blog/priorizando-vulns-high/)
 
 [🔭 Status Page](https://stats.uptimerobot.com/5eVIWl0SQ7)
 
-![rhnux's github stats](https://github-readme-stats.vercel.app/api?username=rhnux&show_icons=true&theme=tokyonight)
 
 
 <!--
