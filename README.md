@@ -3,7 +3,7 @@
 ## rhnux -  Researcher & open source evangelist 🐷 🪤
 
 ### Posts
-
+- [🏷️ Estrategia de Tagging AWS - Cuestionario y Checklist](https://dso-days-siteblog.vercel.app/blog/initial-aws-tagging-strategy/aws-tagging-strategy/)
 - [🛡️ SAP Vulnerabilities | Análisis de CVE-IDs](https://dso-days-siteblog.vercel.app/blog/sap-cve-ids/)
 - [🛡️ SAP Security Notes - 2024](https://dso-days-siteblog.vercel.app/blog/2024-sap-compass-vulns-summary/)
 - [🛡️ Priorizando Vulnerabilidades de Alto Riesgo](https://dso-days-siteblog.vercel.app/blog/priorizando-vulns-high/)
