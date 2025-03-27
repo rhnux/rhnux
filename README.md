@@ -10,7 +10,8 @@
 
 ### SAP Compass Priority Vulnerabilities
 
-![image](https://github.com/user-attachments/assets/8a767499-12d0-4ef0-9ba3-5c2085a2bc13)
+![image](https://github.com/user-attachments/assets/b8ef0dc0-46ae-4e12-b8d9-272b40da7881)
+
 
 [SAP Compass Priority Vulnerabilities](https://sap-compass-vulns.streamlit.app/)
 
