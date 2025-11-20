@@ -19,6 +19,8 @@
 
 [🔭 Status Page](https://stats.uptimerobot.com/5eVIWl0SQ7)
 
+[![Gitlab Sync](https://github.com/rhnux/sap_compass_vulns/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/rhnux/sap_compass_vulns/actions/workflows/main.yml)
+
 
 
 <!--
